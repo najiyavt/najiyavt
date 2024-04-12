@@ -1,7 +1,10 @@
 ### Hi there 👋
 Welcome to Najiya's GitHub Profile! 👋
+
 🌱 I'm currently learning Express.js and NoSQL.
+
 Get in Touch 📬
+
 Email : najiyavtibrahim@gmail.com
 LinkedIn : https://www.linkedin.com/in/najiya-vt-864736224/
 <!--
