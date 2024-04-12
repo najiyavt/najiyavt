@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Welcome to Najiya's GitHub Profile! 👋
 <!--
 **najiyavt/najiyavt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
